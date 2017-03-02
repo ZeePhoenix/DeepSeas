@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepSeas.Plugins", "DeepSeas.Plugins.csproj", "{3E929043-569E-E104-5DC2-A7CED8720711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepSeas", "DeepSeas.csproj", "{74FA31C6-2F6D-3227-C4F2-B38D5ABF8D56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepSeas.Editor", "DeepSeas.Editor.csproj", "{79BF5F75-3A94-91AD-F3DD-8D525DD21862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E929043-569E-E104-5DC2-A7CED8720711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E929043-569E-E104-5DC2-A7CED8720711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E929043-569E-E104-5DC2-A7CED8720711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E929043-569E-E104-5DC2-A7CED8720711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74FA31C6-2F6D-3227-C4F2-B38D5ABF8D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FA31C6-2F6D-3227-C4F2-B38D5ABF8D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74FA31C6-2F6D-3227-C4F2-B38D5ABF8D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74FA31C6-2F6D-3227-C4F2-B38D5ABF8D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79BF5F75-3A94-91AD-F3DD-8D525DD21862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BF5F75-3A94-91AD-F3DD-8D525DD21862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BF5F75-3A94-91AD-F3DD-8D525DD21862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BF5F75-3A94-91AD-F3DD-8D525DD21862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
